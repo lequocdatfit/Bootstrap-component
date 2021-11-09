@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "bootstrap-icons": "^1.5.0"
+  },
+  "scripts": {
+    "scss": "node-sass -o assets/ assets/"
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.1"
   }
 }
