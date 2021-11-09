@@ -58,3 +58,13 @@ html {
   right: 0;
   bottom: 0;
   z-index: 1; }
+
+.modal .modal-header {
+  background-color: #512da8;
+  color: floralwhite; }
+
+.modal .close {
+  color: floralwhite; }
+
+.modal .modal-body {
+  background-color: #d1c4e9; }
